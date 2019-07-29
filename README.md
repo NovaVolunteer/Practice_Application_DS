@@ -14,7 +14,7 @@ Catch all for Data Science Engineering - structuring Kropko
 
 ###  Course Description:
 
-- The purpose of this course is to provide students with an understanding of the foundational principals of data science with a focus on empirical decision making using a contemporary data science lifecycle approach 
+- The purpose of this course is to provide students with an understanding of the foundational principals of data science with a focus on empirical decision making using a contemporary data science lifecycle approach while also learning foundation data engineering skills. 
 
 ### Learning Outcomes:
 
