@@ -98,7 +98,6 @@ For details and policy, see: s
 #### Academic Integrity Code
 
 
-
 #### Safety and Security
 
 In the case of an emergency, if at all possible, the class should shelter in place. If the building that the class is in is affected, follow the evacuation procedures for the building. After evacuation, seek shelter at a predetermined rendezvous location.
