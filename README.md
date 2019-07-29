@@ -1,4 +1,4 @@
-# (Class Number) - Practice and Application of Data Science
+# 6001 - Practice and Application of Data Science
 
 ### Course & Contact Information:
 
