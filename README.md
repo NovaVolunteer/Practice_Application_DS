@@ -2,7 +2,7 @@
 
 ### Course & Contact Information:
 
-**Instructor Names:** Brian Wright (brianwright@virginia.edu) & John Kropo (@virginia.edu) \
+**Instructor Names:** Brian Wright (brianwright@virginia.edu) & Jonathan Kropko (jkropko@virginia.edu) \
 **Term:** Fall 2019 \
 **Location:** Dell  \
 **Time:** TBD \
