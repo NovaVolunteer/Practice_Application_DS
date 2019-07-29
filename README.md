@@ -1,4 +1,4 @@
-# DATS 6450 - Computer Science Foundations
+# (Class Number) - Data Science Foundations
 
 ### Course & Contact Information:
 
