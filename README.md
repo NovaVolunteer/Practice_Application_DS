@@ -11,7 +11,7 @@
 
 ###  Course Description:
 
-- The purpose of this course is to provide students with an understanding of the foundational principals of data science with a focus on empirical decision making using a contemporary data science lifecycle approach while also learning foundation data engineering skills. 
+-The purpose of this course is to provide students with an understanding of the foundational principals of data science with a focus on empirical decision making using a contemporary data science lifecycle approach while also learning foundation data engineering skills. 
 
 ### Learning Outcomes:
 
