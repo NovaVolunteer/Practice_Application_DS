@@ -15,7 +15,9 @@
 
 ### Learning Outcomes:
 
- After completing this course students will be able to address data science problems by.... 
+ - Understanding of scientific reasoning and project lifecycle as applied to the data oriented problems
+ - The creation and utilization of data science pipelines
+ - Preparation and presentation of data presentation and research papers
 
 ### Tentative Schedule:
 This is a tentative schedule and is subject to change. Please check here regularly for updates.
@@ -23,9 +25,9 @@ This is a tentative schedule and is subject to change. Please check here regular
 | Week # |Date   | Topics | Readings | Assignments | Due    | 
 | :----: |:----: |:-------|:---------|:------------| :----- |
 | **1**  | 08/29 | Course intro, syllabus review, data science industry Q&A |  | **TBD**        |      |
-| **2**  | 09/05 | TBD                                                      |  | **TBD**        |      |
+| **2**  | 09/05 | Data Science Lifecyce/Pipeline                           |  | **TBD**        |      |
 | **3**  | 09/12 | TBD                                                      |  | **TBD**        |      |
-| **4**  | 09/19 | **Quiz 1** & Shell Programming continued                 |  | **TBD**        |      |
+| **4**  | 09/19 | **Quiz 1**                                               |  | **TBD**        |      |
 | **5**  | 09/26 | TBD                                                      |  | **TBD**        |      |
 | **6**  | 10/03 | TBD                                                      |  | **TBD**        |      |
 | **7**  | 10/10 | TBD                                                      |  | **TBD**        |      |
