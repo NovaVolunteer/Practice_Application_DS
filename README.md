@@ -1,11 +1,8 @@
 # (Class Number) - Practice and Application of Data Science
-Catch all for Data Science Engineering - structuring Kropko
-
-
 
 ### Course & Contact Information:
 
-**Instructor Names:** Brian Wright (brianwright@virginia.edu) & John_____ (@virginia.edu) \
+**Instructor Names:** Brian Wright (brianwright@virginia.edu) & John Kropo (@virginia.edu) \
 **Term:** Fall 2019 \
 **Location:** Dell  \
 **Time:** TBD \
@@ -32,7 +29,7 @@ This is a tentative schedule and is subject to change. Please check here regular
 | **5**  | 09/26 | TBD                                                      |  | **TBD**        |      |
 | **6**  | 10/03 | TBD                                                      |  | **TBD**        |      |
 | **7**  | 10/10 | TBD                                                      |  | **TBD**        |      |
-| **8**  | 10/17 | **Midterm Project*                                       |  | **TBD**        |      |
+| **8**  | 10/17 | **Midterm Project**                                      |  | **TBD**        |      |
 | **9**  | 10/24 | TBD                                                      |  | **TBD**        |      |
 | **10** | 10/31 | TBD                                                      |  | **TBD**        |      |
 | **11** | 11/7  | **Quiz 2**                                               |  | **TBD**        |      |
