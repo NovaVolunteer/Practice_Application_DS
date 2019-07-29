@@ -1,4 +1,7 @@
-# (Class Number) - Data Science Foundations
+# (Class Number) - Practice and Application of Data Science
+Catch all for Data Science Engineering - structuring Kropko
+
+
 
 ### Course & Contact Information:
 
