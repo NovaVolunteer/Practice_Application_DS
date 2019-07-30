@@ -20,9 +20,9 @@
  
  ## Part II
  - Preparation and presentation of data presentation and research papers
-  - Data Visualization 
-  - Technical presentation development 
-  - Academic journal paper development (IEEE)
+    - Data Visualization 
+    - Technical presentation development 
+    - Academic journal paper development (IEEE)
  - Case studies designed to better understand data science challenges
 
 ### Tentative Schedule Part I:
