@@ -30,7 +30,7 @@ This is a tentative schedule and is subject to change. Please check here regular
 
 | Week # |Date   | Topics                                           | Readings |   Assignments  | Due  | 
 | :----: |:----: |:-------|:---------|:------------| :----- |
-| **1**  | 08/29 | Course intro, syllabus review, data science industry Q&A |  | **TBD**        |      |
+| **1**  | 08/29 | Course intro, syllabus review, data science industry Q&A |        | **TBD**        |      |
 | **2**  | 09/05 | Data Science or the Science of Data?                     |  | **TBD**        |      |
 | **3**  | 09/12 | TBD                                                      |  | **TBD**        |      |
 | **4**  | 09/19 | **Quiz 1**                                               |  | **TBD**        |      |
