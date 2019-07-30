@@ -11,7 +11,7 @@
 
 ###  Course Description:
 
-The purpose of this course is to provide students with an understanding of the foundational principals of data science with a focus on empirical decision making using a contemporary data science lifecycle approach. The course will also include content on foundational data engineering skills using the lifecycle as a framework. In doing so, the course is separated into three high level sections covering two semesters. The first semester focuses on better understanding the field of data science and skills needed to have a successful career as a data scientist. This is followed by content focused on exploratory data analysis and creating pipelines for data aquisition and usage.  The second semester centers on preparing students to communicate data driven outcomes through presentations and paper development and uses case studies to expose students to typical challenges faced in the field.  
+The purpose of this course is to provide students with an understanding of the foundational principles of data science with a focus on empirical decision making using a contemporary data science lifecycle approach. In doing so, the course is separated into three high level sections covering two semesters. The first semester focuses on understanding the field of data science and skills needed to have a successful career as a data scientist. This is followed by content centered on exploratory data analysis and creating pipelines for data aquisition and usage.  The second semester is designed to preparing students to communicate data driven outcomes through presentations and research papers and uses case studies to expose students to typical challenges faced in the field.  
 
 ### Learning Outcomes:
 ## Part I
@@ -28,10 +28,10 @@ The purpose of this course is to provide students with an understanding of the f
 ### Tentative Schedule Part I:
 This is a tentative schedule and is subject to change. Please check here regularly for updates.
 
-| Week # |Date   | Topics | Readings | Assignments | Due    | 
+| Week # |Date   | Topics                                           | Readings |   Assignments  | Due  | 
 | :----: |:----: |:-------|:---------|:------------| :----- |
 | **1**  | 08/29 | Course intro, syllabus review, data science industry Q&A |  | **TBD**        |      |
-| **2**  | 09/05 | Data Science Lifecyce/Pipeline                           |  | **TBD**        |      |
+| **2**  | 09/05 | Data Science or the Science of Data?                     |  | **TBD**        |      |
 | **3**  | 09/12 | TBD                                                      |  | **TBD**        |      |
 | **4**  | 09/19 | **Quiz 1**                                               |  | **TBD**        |      |
 | **5**  | 09/26 | TBD                                                      |  | **TBD**        |      |
