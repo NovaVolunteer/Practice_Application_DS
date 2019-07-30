@@ -11,7 +11,7 @@
 
 ###  Course Description:
 
--The purpose of this course is to provide students with an understanding of the foundational principals of data science with a focus on empirical decision making using a contemporary data science lifecycle approach while also learning foundational data engineering skills. In doing so the course is separated into three high level sections covering two semesters. The first semester is the focus is on better understanding the field of data science and skills needed to have a successful data science career. This is followed by a introduction to the data lifecycle with a emphasis on exploratory data analysis and creating pipelines for data aquisition and usage.  
+The purpose of this course is to provide students with an understanding of the foundational principals of data science with a focus on empirical decision making using a contemporary data science lifecycle approach. The course will also include content on foundational data engineering skills using the lifecycle as a framework. In doing so, the course is separated into three high level sections covering two semesters. The first semester focuses on better understanding the field of data science and skills needed to have a successful career as a data scientist. This is followed by content focused on exploratory data analysis and creating pipelines for data aquisition and usage.  The second semester centers on preparing students to communicate data driven outcomes through presentations and paper development and uses case studies to expose students to typical challenges faced in the field.  
 
 ### Learning Outcomes:
 ## Part I
