@@ -6,7 +6,7 @@
 **Term:** Fall 2019 \
 **Location:** Dell  \
 **Time:** MW 3:15
-**Office hours:** TBA \
+**Office hours:** Thursday: 1-4
 **Teaching Assistant:** TBD
 
 ###  Course Description:
@@ -30,15 +30,15 @@ This is a tentative schedule and is subject to change. Please check here regular
 
 | Week # |Date   | Topics | Readings | Assignments | Due    | Prof
 | :----: |:----: |:-------|:---------|:------------| :----- | :-----
-| **1**  | 08/29 | Course intro, syllabus review, data science industry Q&A |  | **TBD**        |      |    |
-| **2**  | 09/05 | Data Science or the Science of Data? (Lifecycle)         |  |Dream Job       |      |    |
-| **3**  | 09/12 | Project Management/Client Management/Trello.SmartSheets  |  | **TBD**        |      |    |
-| **4**  | 09/19 | Life Long Learning/Getting Help                          |  | Digital Library |      |    |
-| **5**  | 09/26 | TBD                                                      |  | **TBD**        |      |    |
-| **6**  | 10/03 | TBD                                                      |  | **TBD**        |      |    |
-| **7**  | 10/10 | TBD                                                      |  | **TBD**        |      |    |
-| **8**  | 10/17 | **Midterm Project**                                      |  | **TBD**        |      |    |
-| **9**  | 10/24 | TBD                                                      |  | **TBD**        |      |    |
+| **1**  | 08/29 | Course intro, syllabus review, capstone Q & A              |  | **TBD**        |      |B    |
+| **2**  | 09/05 | Data Science or the Science of Data?                       |  |Dream Job       |      |B    |
+| **3**  | 09/12 | Project Mng/Client Management/Trello.SmartSheets/Contract  |  | **TBD**        |      |B   |
+| **4**  | 09/19 | Life Long Learning/Getting Help/Documentation            |  | Digital Library |       |J    |
+| **5**  | 09/26 | Data Acquistion:CSV/ASCII Delimiters, Headers            |  | **TBD**        |      | J  |
+| **6**  | 10/03 | Data Acquistion: Web Scraping                            |  | **TBD**        |      | B  |
+| **7**  | 10/10 | JSON/APIs/Streaming                                      |  | **TBD**        |      | J  |
+| **8**  | 10/17 | Store: SQLite                                            |  | **TBD**        |      |    |
+| **9**  | 10/24 | Store: SQLite                                            |  | **TBD**        |      |    |
 | **10** | 10/31 | TBD                                                      |  | **TBD**        |      |    |
 | **11** | 11/7  | **Quiz 2**                                               |  | **TBD**        |      |    |
 | **12** | 11/14 | TBD                                                      |  | **TBD**        |      |    |
