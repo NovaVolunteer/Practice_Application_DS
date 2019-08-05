@@ -30,9 +30,9 @@ This is a tentative schedule and is subject to change. Please check here regular
 
 | Week # |Date   | Topics | Readings | Assignments | Due    | Prof
 | :----: |:----: |:-------|:---------|:------------| :----- | :-----
-| **1**  | 08/29 | Course intro, syllabus review, capstone Q & A              |  | **TBD**        |      |B    |
-| **2**  | 09/05 | Data Science or the Science of Data?                       |  |Dream Job       |      |B    |
-| **3**  | 09/12 | Project Mng/Client Management/Trello.SmartSheets/Contract  |  | **TBD**        |      |B   |
+| **1**  | 08/29 | Syllabus review, Science of Data or Data Science?         |  | **TBD**        |      |B    |
+| **2**  | 09/05 | Landscape/Teamwork/Contract/                              |  |Dream Job       |      |B    |
+| **3**  | 09/12 | Project Mng/Client Management/Trello.SmartSheets         |  | **TBD**        |      |B   |
 | **4**  | 09/19 | Life Long Learning/Getting Help/Documentation            |  | Digital Library |       |J    |
 | **5**  | 09/26 | Data Acquistion:CSV/ASCII Delimiters, Headers            |  | **TBD**        |      | J  |
 | **6**  | 10/03 | Data Acquistion: Web Scraping                            |  | **TBD**        |      | B  |
