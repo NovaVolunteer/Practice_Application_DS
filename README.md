@@ -5,17 +5,17 @@
 **Instructor Names:** Brian Wright (brianwright@virginia.edu) & Jonathan Kropko (jkropko@virginia.edu) \
 **Term:** Fall 2019 \
 **Location:** Dell  \
-**Time:** TBD \
+**Time:** MW 3:15
 **Office hours:** TBA \
 **Teaching Assistant:** TBD
 
 ###  Course Description:
 
-The purpose of this course is to provide students with an understanding of the foundational principles of data science with a focus on empirical decision making using a contemporary data science lifecycle approach. In doing so, the course is separated into three high level sections covering two semesters. The first semester focuses on understanding the field of data science and skills needed to have a successful career as a data scientist. This is followed by content centered on exploratory data analysis and creating pipelines for data aquisition and usage.  The second semester is designed to preparing students to communicate data driven outcomes through presentations and research papers and uses case studies to expose students to typical challenges faced in the field.  
+The purpose of this course is to provide students with an understanding of data science in practice with a focus on empirical decision making using a contemporary data science lifecycle approach. In doing so, the course is separated into three high level sections covering two semesters. The first semester focuses on understanding the field of data science and skills needed to have a successful career as a data scientist. This is followed by content centered on creating and using pipelines for data aquisition, wraggling and visualization.  The second semester is designed to preparing students to communicate data driven outcomes through presentations, research papers and working through  case studies to better understand typical challenges faced in the field.  
 
 ### Learning Outcomes:
 ## Part I
- - Understanding of scientific reasoning and project lifecycle as applied to the data oriented problems
+ - Understanding of field of data science at large, various roles and how to approach problems as a data scientists
  - The creation and utilization of data science pipelines
  
  ## Part II
@@ -31,9 +31,9 @@ This is a tentative schedule and is subject to change. Please check here regular
 | Week # |Date   | Topics | Readings | Assignments | Due    | Prof
 | :----: |:----: |:-------|:---------|:------------| :----- | :-----
 | **1**  | 08/29 | Course intro, syllabus review, data science industry Q&A |  | **TBD**        |      |    |
-| **2**  | 09/05 | Data Science or the Science of Data?                     |  | **TBD**        |      |    |
-| **3**  | 09/12 | TBD                                                      |  | **TBD**        |      |    |
-| **4**  | 09/19 | **Quiz 1**                                               |  | **TBD**        |      |    |
+| **2**  | 09/05 | Data Science or the Science of Data? (Lifecycle)         |  |Dream Job       |      |    |
+| **3**  | 09/12 | Project Management/Client Management/Trello.SmartSheets  |  | **TBD**        |      |    |
+| **4**  | 09/19 | Life Long Learning/Getting Help                          |  | Digital Library |      |    |
 | **5**  | 09/26 | TBD                                                      |  | **TBD**        |      |    |
 | **6**  | 10/03 | TBD                                                      |  | **TBD**        |      |    |
 | **7**  | 10/10 | TBD                                                      |  | **TBD**        |      |    |
