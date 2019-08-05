@@ -28,24 +28,24 @@ The purpose of this course is to provide students with an understanding of the f
 ### Tentative Schedule Part I:
 This is a tentative schedule and is subject to change. Please check here regularly for updates.
 
-| Week # |Date   | Topics | Readings | Assignments | Due    | 
-| :----: |:----: |:-------|:---------|:------------| :----- |
-| **1**  | 08/29 | Course intro, syllabus review, data science industry Q&A |  | **TBD**        |      |
-| **2**  | 09/05 | Data Science or the Science of Data?                     |  | **TBD**        |      |
-| **3**  | 09/12 | TBD                                                      |  | **TBD**        |      |
-| **4**  | 09/19 | **Quiz 1**                                               |  | **TBD**        |      |
-| **5**  | 09/26 | TBD                                                      |  | **TBD**        |      |
-| **6**  | 10/03 | TBD                                                      |  | **TBD**        |      |
-| **7**  | 10/10 | TBD                                                      |  | **TBD**        |      |
-| **8**  | 10/17 | **Midterm Project**                                      |  | **TBD**        |      |
-| **9**  | 10/24 | TBD                                                      |  | **TBD**        |      |
-| **10** | 10/31 | TBD                                                      |  | **TBD**        |      |
-| **11** | 11/7  | **Quiz 2**                                               |  | **TBD**        |      |
-| **12** | 11/14 | TBD                                                      |  | **TBD**        |      |
-| **13** | 11/21 | TBD                                                      |  | **TBD**        |      |
-| **14** | 11/28 | Thanksgiving no class                                    |  | **TBD**        |      |
-| **15** | 12/05 | TBD                                                      |  | **TBD**        |      |
-| **16** | TBD   | **Final Project**                                        |  | **TBD**        |      |
+| Week # |Date   | Topics | Readings | Assignments | Due    | Prof
+| :----: |:----: |:-------|:---------|:------------| :----- | :-----
+| **1**  | 08/29 | Course intro, syllabus review, data science industry Q&A |  | **TBD**        |      |    |
+| **2**  | 09/05 | Data Science or the Science of Data?                     |  | **TBD**        |      |    |
+| **3**  | 09/12 | TBD                                                      |  | **TBD**        |      |    |
+| **4**  | 09/19 | **Quiz 1**                                               |  | **TBD**        |      |    |
+| **5**  | 09/26 | TBD                                                      |  | **TBD**        |      |    |
+| **6**  | 10/03 | TBD                                                      |  | **TBD**        |      |    |
+| **7**  | 10/10 | TBD                                                      |  | **TBD**        |      |    |
+| **8**  | 10/17 | **Midterm Project**                                      |  | **TBD**        |      |    |
+| **9**  | 10/24 | TBD                                                      |  | **TBD**        |      |    |
+| **10** | 10/31 | TBD                                                      |  | **TBD**        |      |    |
+| **11** | 11/7  | **Quiz 2**                                               |  | **TBD**        |      |    |
+| **12** | 11/14 | TBD                                                      |  | **TBD**        |      |    |
+| **13** | 11/21 | TBD                                                      |  | **TBD**        |      |    |
+| **14** | 11/28 | Thanksgiving no class                                    |  | **TBD**        |      |    |
+| **15** | 12/05 | TBD                                                      |  | **TBD**        |      |    |
+| **16** | TBD   | **Final Project**                                        |  | **TBD**        |      |    |
 
 ### Textbooks and Course Resources:
 
