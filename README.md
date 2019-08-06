@@ -90,6 +90,8 @@ We will leverage Slack in this course to:
 
 
 ### Learning Assignments:
+|Assignment| % |
+| :----: |:---- |
 | Homework |25% |
 | Quizzes | 25% |
 |Proposal and Presentation | 25% |
