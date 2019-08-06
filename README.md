@@ -28,39 +28,38 @@ The purpose of this course is to provide students with an understanding of data 
 ### Tentative Schedule Part I:
 This is a tentative schedule and is subject to change. Please check here regularly for updates.
 
-| Week # |Date   | Topics | Readings | Assignments | Due    | Prof
+| Week # |Date   | Topics                                                      | Readings | Assignments | Due    | Prof
 | :----: |:----: |:-------|:---------|:------------| :----- | :-----
-| **1**  | 08/28 | Syllabus review, Science of Data or Data Science?         |  | **TBD**        |      |B/J  |
-| **2**  | 09/02 | Landscape/Teamwork/Contract/                              |  |Dream Job       |      |B    |
-| **2**  | 09/04 | Life Long Learning/Getting Help/Documentation         |  | **TBD**        |      |B   |
-| **3**  | 09/09 | Project Mng/Client Management/Trello.SmartSheets          |  | Digital Library |       |J    |
-| **3**  | 09/11 | Technical Presentations                                  |  | **TBD**        |      | B/J  |
-| **4**  | 09/16 | Data Acquistion:CSV/ASCII Delimiters, Headers            |  | **TBD**        |      | J  |
-| **4**  | 09/18 | Data Acquistion: Web Scraping                            |  | **TBD**        |      | B  |
-| **5**  | 09/23 | JSON/APIs/Streaming                                      |  | **TBD**        |      | J  |
-| **5**  | 09/25 | Student Presentations                                            |  | **TBD**        |      |    |
-| **6** | 09/30 | Student Presentations                                         |  | **TBD**        |      |    |
-| **6** | 10/02 | Data Loading DB/SQL                                                     |  | **TBD**        |      |    |
-| **7** | 10/07  | Data Loading DB/SQL                                              |  | **TBD**        |      |    |
-| **7** | 10/09 | Data Loading DB/SQL                                                     |  | **TBD**        |      |    |
-| **8** | 10/14 | Data Loading DB/SQL                                                     |  | **TBD**        |      |    |
-| **8** | 10/16 |                                    |  | **TBD**        |      |    |
-| **9** | 10/21 | TBD                                                      |  | **TBD**        |      |    |
-| **9** | 10/23 |                                       |  | **TBD**        |      |    |
-| **10** | 10/28 | Data Loading DB/SQL                                                     |  | **TBD**        |      |    |
-| **10** | 10/30 | Data Loading DB/SQL                                                     |  | **TBD**        |      |    |
-| **11** | 11/04 |                                    |  | **TBD**        |      |    |
-| **11** | 11/06 | TBD                                                      |  | **TBD**        |      |    |
-| **12** | 11/11 |                                      |  | **TBD**        |      |    |
-| **12** | 11/13 | Data Loading DB/SQL                                                     |  | **TBD**        |      |    |
-| **13** | 11/18 | Data Loading DB/SQL                                                     |  | **TBD**        |      |    |
-| **13** | 11/20 |                                    |  | **TBD**        |      |    |
-| **14** | 11/25 | TBD                                                      |  | **TBD**        |      |    |
-| **14** | 11/27 | **Final Project**                                        |  | **TBD**        |      |    |
-| **15** | 12/02 | Data Loading DB/SQL                                                     |  | **TBD**        |      |    |
-| **15** | 12/04 |                                                      |  | **TBD**        |      |    |
-| **16** | 12/09 |                                    |  | **TBD**        |      |    |
-| **16** | 12/11 | **Final Project**                                                      |  | **TBD**        |      |    |
+| **1**  | 08/28 | Syllabus review, Science of Data or Data Science?/Capstone Q&A      |  | Dream Job       |  NC    |B/J  |
+| **2**  | 09/02 | Landscape/Teamwork/Contract                                         |  |Contract       |   NC   |B    |
+| **2**  | 09/04 | Tech Writing/Tech Presentation                                      |  | Proposal/Presentations   |      |B   |
+| **2**  | 09/09 | Tech Presentations                                                  |  |                           |  |B   |
+| **3**  | 09/11 | Life Long Learning/Getting Help/Documentation                       |  | Digital Library        |      | B  |
+| **4**  | 09/16 | Client Management/Target Setting                                    |  | Success Statement      |      | J  |
+| **4**  | 09/18 | Project Mng/Client Management/Trello.SmartSheets                     |  | Project Plan        |      | B  |
+| **5**  | 09/23 | Data Acquistion:CSV/ASCII Delimiters, Headers                        |  |         |      | J  |
+| **5**  | 09/25 | Data Acquistion:CSV/ASCII JSON/APIs                                  |  | Lab        |  NC    |  J |
+| **6** | 09/30 | Student Presentations                                                 |  |         |      |  B/J  |
+| **6** | 10/02 | Student Presentations                                                 |  |         |      |  B/J  |
+| **7** | 10/07 | Data Acquistion: Web Scraping                                         |  |         |      |  B  |
+| **7** | 10/09 | Data Loading DB/SQL                                                   |  | Lab        |      |  R  |
+| **8** | 10/14 | Data Loading DB/SQL                                                   |  |        |      |  R  |
+| **8** | 10/16 | Data Loading DB/SQL                                                  |  |  Lab       |      |  R  |
+| **9** | 10/21 | Data Loading DB/SQL                                                  |  |         |      |  R  |
+| **9** | 10/23 | Viz Shiny                                                            |  | Lab        |      |  B  |
+| **10** | 10/28 | Viz DASH                                                            |  |         |      |  B/J  |
+| **10** | 10/30 | Viz DASH                                                             |  | Lab        |      | B/J   |
+| **11** | 11/04 | Data Integration: Pandas/SQL                                         |  |         |      |  R  |
+| **11** | 11/06 | Data Integration: Pandas/SQL                                         |  | Lab       |      |  R  |
+| **12** | 11/11 | Data Cleaning: Duplicate, Nulls etc.                                 |  |         |      |  B/J  |
+| **12** | 11/13 | Data Cleaning: Imputation                                           |  | Lab        |      |  B/J  |
+| **13** | 11/18 | Data Transformation: Grouping                                       |  |        |      |  B/J  |
+| **13** | 11/20 | Data Transformation                                                |  | Lab        |      | B/J   |
+| **14** | 11/25 | Data Pipeline                                                     |  |        |      | R   |
+| **14** | 11/27 | **No Class Thanksgiving Break**                                   |  |         |      |    |
+| **15** | 12/02 | Data Pipeline                                                 |  | Lab        |      |  R  |
+| **15** | 12/04 | Course Review                                                    |  |         |      |  B/J  |
+| **16** | 12/11 | **Data Presentations**                                                      |  |         |      |  B/J  |
 
 
 
