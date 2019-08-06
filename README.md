@@ -58,8 +58,8 @@ This is a tentative schedule and is subject to change. Please check here regular
 | **14** | 11/25 | Data Pipeline                                                     |  |        |      | R   |
 | **14** | 11/27 | **No Class Thanksgiving Break**                                   |  |         |      |    |
 | **15** | 12/02 | Data Pipeline                                                 |  | Lab        |      |  R  |
-| **15** | 12/04 | Course Review                                                    |  |         |      |  B/J  |
-| **16** | 12/11 | **Data Presentations**                                                      |  |         |      |  B/J  |
+| **15** | 12/04 | Course Review and Presentation Prep                      |  |         |      |  B/J  |
+| **16** | 12/11 | **Data Pipeline Presentations**                                                      |  |         |      |  B/J  |
 
 
 ### Textbooks and Course Resources:
@@ -90,9 +90,15 @@ We will leverage Slack in this course to:
 
 
 ### Learning Assignments:
+| Homework |25% |
+| Quizzes | 25% |
+|Proposal and Presentation | 25% |
+|Data Pipeline Presentation| 25% |
 
-#### Projects
-There will be two in class projects composing 50% of the total final grade. 
+
+#### Projects and Presentations
+- Homework 
+ 
 
 #### In-Class Exercises:
  These assessments will be used to check learning and give feedback on areas for improvement. Reading prior to class, class attendance, and participation in activities are essential for success on this part of the course.
@@ -102,8 +108,6 @@ There will be two in class projects composing 50% of the total final grade.
 
 
 #### Quizzes: 
-
-- TBD
 
 
 #### Grading Scale:
