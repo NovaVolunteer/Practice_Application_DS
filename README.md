@@ -5,9 +5,9 @@
 **Instructor Names:** Brian Wright (brianwright@virginia.edu) & Jonathan Kropko (jkropko@virginia.edu) \
 **Term:** Fall 2019 \
 **Location:** Dell  \
-**Time:** MW 3:15
-**Office hours:** Thursday 1-4
-**Teaching Assistant:** TBD
+**Time:** MW 3:15 \
+**Office hours:** Thursday 1-4 \
+**Teaching Assistant:** TBD 
 
 ###  Course Description:
 
