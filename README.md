@@ -63,6 +63,9 @@ This is a tentative schedule and is subject to change. Please check here regular
 
 
 ### Textbooks and Course Resources:
+- The Art of Data Science 
+- Python Data Science Handbook
+- SQLite Python tutorial
 
 **Course Slack Channel:**
 - setup slack channel)
@@ -75,13 +78,16 @@ We will leverage Slack in this course to:
 - hold virtual office hours (if necessary)
 
 **Online resource**
+- Low cost platforms to get more learning as needed: Data Quest, Data Camp, Coursera
 
 **Social Media Follows: Adjusting Your Information Algo**
-- Medium: Programming, Data Science, Data Engineering  
-- Twitter: 
-- Blogs/Message Board: http://blog.kaggle.com/, https://news.ycombinator.com/news, 
+- Medium: Programming, Data Science, Data Engineering
+- Reddit: Data Science and Data Engineering
+- Quora: Ask a Data Scientist, The Art of Data Science, Code, Become a Great Programmer 
+- Blogs/Message Board: http://blog.kaggle.com/, https://news.ycombinator.com/news, https://www.kdnuggets.com/
+- Twitter: Kirk Borne, Andrew Ng, Gregory Piatetsky, Fei-Fei Li, Hadley Wickham, Marck Vaisman, Dj Patil, Sam Harris 
 
-This class is supported by (insert a brief summary of the platform above if needed)
+
 
 ### Learning Assignments:
 
@@ -96,10 +102,6 @@ There will be two in class projects composing 50% of the total final grade.
 
 
 #### Quizzes: 
-
-- TBD
-
-### Grading:
 
 - TBD
 
