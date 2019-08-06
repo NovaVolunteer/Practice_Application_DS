@@ -62,16 +62,6 @@ This is a tentative schedule and is subject to change. Please check here regular
 | **16** | 12/11 | **Data Presentations**                                                      |  |         |      |  B/J  |
 
 
-
-
-
-
-
-
-
-
-
-
 ### Textbooks and Course Resources:
 
 **Course Slack Channel:**
@@ -84,8 +74,12 @@ We will leverage Slack in this course to:
 - foster a collaborative environment for students to work together 
 - hold virtual office hours (if necessary)
 
-**DataCamp: or other online resource**
-- .
+**Online resource**
+
+**Social Media Follows: Adjusting Your Information Algo**
+- Medium: Programming, Data Science, Data Engineering  
+- Twitter: 
+- Blogs/Message Board: http://blog.kaggle.com/, https://news.ycombinator.com/news, 
 
 This class is supported by (insert a brief summary of the platform above if needed)
 
