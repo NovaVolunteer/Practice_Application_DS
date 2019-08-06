@@ -15,7 +15,7 @@ The purpose of this course is to provide students with an understanding of data 
 
 ### Learning Outcomes:
 ## Part I
- - Understanding of field of data science at large, various roles and how to approach problems as a data scientists
+ - Understanding of field of data science at large and how to approach data driven approaches
  - The creation and utilization of data science pipelines
  
  ## Part II
