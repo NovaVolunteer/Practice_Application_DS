@@ -92,18 +92,17 @@ We will leverage Slack in this course to:
 ### Learning Assignments:
 |Assignment| % |
 | :----: |:---- |
-| Homework |25% |
-| Quizzes | 25% |
+| Quizzes |15% |
+| Homework | 25% |
 |Proposal and Presentation | 25% |
-|Data Pipeline Presentation| 25% |
+|Data Pipeline Presentation| 35% |
 
 
-#### Projects and Presentations
-- Homework 
- 
+#### Projects and Presentations 
+There will be two presentations designed to demonstrate your understanding of the practices being discussed through application to your capstone project. 
 
 #### In-Class Exercises:
- These assessments will be used to check learning and give feedback on areas for improvement. Reading prior to class, class attendance, and participation in activities are essential for success on this part of the course.
+These assessments will be used to check learning and give feedback on areas for improvement. Reading prior to class, class attendance, and participation in activities are essential for success on this part of the course.
  
 #### Homework Assignments:
  Details on requirements will be given during class periods. Most assignments will be due the next class period and can be submitted via blackboard or datacamp. We will work to provide feedback in the next class session. 
