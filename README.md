@@ -71,11 +71,11 @@ This is a tentative schedule and is subject to change. Please check here regular
 - setup slack channel)
 
 We will leverage Slack in this course to: 
-- familiarize students with a platform used by data science teams in industry
-- increase access to the professors and TA
-- quickly disseminate files
-- foster a collaborative environment for students to work together 
-- hold virtual office hours (if necessary)
+- Familiarize students with a platform used by data science teams in industry
+- Increase access to the professors and TA
+- Quickly disseminate files
+- Foster a collaborative environment for students to work together 
+
 
 **Online resource**
 - Low cost platforms to get more learning as needed: Data Quest, Data Camp, Coursera
