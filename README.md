@@ -33,7 +33,7 @@ This is a tentative schedule and is subject to change. Please check here regular
 | **1**  | 08/28 | Syllabus review, Science of Data or Data Science?/Capstone Q&A      |  | Dream Job       |  NC    |B/J  |
 | **2**  | 09/02 | Landscape/Teamwork/Contract                                         |  |Contract       |   NC   |B    |
 | **2**  | 09/04 | Tech Writing/Tech Presentation                                      |  | Proposal/Presentations   |      |B   |
-| **2**  | 09/09 | Tech Presentations                                                  |  |                           |  |B   |
+| **3**  | 09/09 | Tech Presentations                                                  |  |                           |  |B   |
 | **3**  | 09/11 | Life Long Learning/Getting Help/Documentation                       |  | Digital Library        |      | B  |
 | **4**  | 09/16 | Client Management/Target Setting                                    |  | Success Statement      |      | J  |
 | **4**  | 09/18 | Project Mng/Client Management/Trello.SmartSheets                     |  | Project Plan        |      | B  |
