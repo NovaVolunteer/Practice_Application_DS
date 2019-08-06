@@ -30,22 +30,48 @@ This is a tentative schedule and is subject to change. Please check here regular
 
 | Week # |Date   | Topics | Readings | Assignments | Due    | Prof
 | :----: |:----: |:-------|:---------|:------------| :----- | :-----
-| **1**  | 08/29 | Syllabus review, Science of Data or Data Science?         |  | **TBD**        |      |B    |
-| **2**  | 09/05 | Landscape/Teamwork/Contract/                              |  |Dream Job       |      |B    |
-| **3**  | 09/12 | Project Mng/Client Management/Trello.SmartSheets         |  | **TBD**        |      |B   |
-| **4**  | 09/19 | Life Long Learning/Getting Help/Documentation            |  | Digital Library |       |J    |
-| **5**  | 09/26 | Data Acquistion:CSV/ASCII Delimiters, Headers            |  | **TBD**        |      | J  |
-| **6**  | 10/03 | Data Acquistion: Web Scraping                            |  | **TBD**        |      | B  |
-| **7**  | 10/10 | JSON/APIs/Streaming                                      |  | **TBD**        |      | J  |
-| **8**  | 10/17 | Store: SQLite                                            |  | **TBD**        |      |    |
-| **9**  | 10/24 | Store: SQLite                                            |  | **TBD**        |      |    |
-| **10** | 10/31 | TBD                                                      |  | **TBD**        |      |    |
-| **11** | 11/7  | **Quiz 2**                                               |  | **TBD**        |      |    |
-| **12** | 11/14 | TBD                                                      |  | **TBD**        |      |    |
-| **13** | 11/21 | TBD                                                      |  | **TBD**        |      |    |
-| **14** | 11/28 | Thanksgiving no class                                    |  | **TBD**        |      |    |
-| **15** | 12/05 | TBD                                                      |  | **TBD**        |      |    |
-| **16** | TBD   | **Final Project**                                        |  | **TBD**        |      |    |
+| **1**  | 08/28 | Syllabus review, Science of Data or Data Science?         |  | **TBD**        |      |B/J  |
+| **2**  | 09/02 | Landscape/Teamwork/Contract/                              |  |Dream Job       |      |B    |
+| **2**  | 09/04 | Life Long Learning/Getting Help/Documentation         |  | **TBD**        |      |B   |
+| **3**  | 09/09 | Project Mng/Client Management/Trello.SmartSheets          |  | Digital Library |       |J    |
+| **3**  | 09/11 | Technical Presentations                                  |  | **TBD**        |      | B/J  |
+| **4**  | 09/16 | Data Acquistion:CSV/ASCII Delimiters, Headers            |  | **TBD**        |      | J  |
+| **4**  | 09/18 | Data Acquistion: Web Scraping                            |  | **TBD**        |      | B  |
+| **5**  | 09/23 | JSON/APIs/Streaming                                      |  | **TBD**        |      | J  |
+| **5**  | 09/25 | Student Presentations                                            |  | **TBD**        |      |    |
+| **6** | 09/30 | Student Presentations                                         |  | **TBD**        |      |    |
+| **6** | 10/02 | Data Loading DB/SQL                                                     |  | **TBD**        |      |    |
+| **7** | 10/07  | Data Loading DB/SQL                                              |  | **TBD**        |      |    |
+| **7** | 10/09 | Data Loading DB/SQL                                                     |  | **TBD**        |      |    |
+| **8** | 10/14 | Data Loading DB/SQL                                                     |  | **TBD**        |      |    |
+| **8** | 10/16 |                                    |  | **TBD**        |      |    |
+| **9** | 10/21 | TBD                                                      |  | **TBD**        |      |    |
+| **9** | 10/23 |                                       |  | **TBD**        |      |    |
+| **10** | 10/28 | Data Loading DB/SQL                                                     |  | **TBD**        |      |    |
+| **10** | 10/30 | Data Loading DB/SQL                                                     |  | **TBD**        |      |    |
+| **11** | 11/04 |                                    |  | **TBD**        |      |    |
+| **11** | 11/06 | TBD                                                      |  | **TBD**        |      |    |
+| **12** | 11/11 |                                      |  | **TBD**        |      |    |
+| **12** | 11/13 | Data Loading DB/SQL                                                     |  | **TBD**        |      |    |
+| **13** | 11/18 | Data Loading DB/SQL                                                     |  | **TBD**        |      |    |
+| **13** | 11/20 |                                    |  | **TBD**        |      |    |
+| **14** | 11/25 | TBD                                                      |  | **TBD**        |      |    |
+| **14** | 11/27 | **Final Project**                                        |  | **TBD**        |      |    |
+| **15** | 12/02 | Data Loading DB/SQL                                                     |  | **TBD**        |      |    |
+| **15** | 12/04 |                                                      |  | **TBD**        |      |    |
+| **16** | 12/09 |                                    |  | **TBD**        |      |    |
+| **16** | 12/11 | **Final Project**                                                      |  | **TBD**        |      |    |
+
+
+
+
+
+
+
+
+
+
+
 
 ### Textbooks and Course Resources:
 
