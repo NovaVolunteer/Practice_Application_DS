@@ -76,7 +76,6 @@ We will leverage Slack in this course to:
 - Quickly disseminate files
 - Foster a collaborative environment for students to work together 
 
-
 **Online resource**
 - Low cost platforms to get more learning as needed: Data Quest, Data Camp, Coursera
 
@@ -85,34 +84,31 @@ We will leverage Slack in this course to:
 - Reddit: Data Science and Data Engineering
 - Quora: Ask a Data Scientist, The Art of Data Science, Code, Become a Great Programmer 
 - Blogs/Message Board: http://blog.kaggle.com/, https://news.ycombinator.com/news, https://www.kdnuggets.com/
-- Twitter: Kirk Borne, Andrew Ng, Gregory Piatetsky, Fei-Fei Li, Hadley Wickham, Marck Vaisman, Dj Patil, Sam Harris 
-
+- Twitter: Kirk Borne, Andrew Ng, Gregory Piatetsky, Fei-Fei Li, Hadley Wickham, Dj Patil, Sam Harris 
 
 
 ### Learning Assignments:
 |Assignment| % |
 | :----: |:---- |
-| Quizzes |15% |
-| Homework | 25% |
+|Quizzes |15% |
+|Homework/In-Class Excercises | 25% |
 |Proposal and Presentation | 25% |
 |Data Pipeline Presentation| 35% |
 
 
 #### Projects and Presentations 
-There will be two presentations designed to demonstrate your understanding of the practices being discussed through application to your capstone project. 
+There will be two presentations designed to demonstrate your understanding of the practices being discussed as applied to your capstone projects. 
 
 #### In-Class Exercises:
 These assessments will be used to check learning and give feedback on areas for improvement. Reading prior to class, class attendance, and participation in activities are essential for success on this part of the course.
  
-#### Homework Assignments:
- Details on requirements will be given during class periods. Most assignments will be due the next class period and can be submitted via blackboard or datacamp. We will work to provide feedback in the next class session. 
-
+#### Labs: 
+Details on requirements will be given during class periods. Most assignments will be due the next class (NC) period and can be submitted via colab. We will work to provide feedback in the next class session. 
 
 #### Quizzes: 
-
+There will be at least two quizzes in either take home or in-class form. 
 
 #### Grading Scale:
-
  - 93-100 A
  - 90-92 A- 
  - 87-89 B+
@@ -122,6 +118,9 @@ These assessments will be used to check learning and give feedback on areas for 
  - 73-76 C 
  - 70-72 C- 
  - <70 F
+ 
+### Estimated time requirements for the course
+The course meets twice a week for roughly 1 hour and half. It's likely for every hour of class time two hours of work outside of the classroom at minimum will be necessary for successful completion of the course requirements. This bringd the total curricular related hours up to roughly 9 hours per week. 
 
 ###  UNIVERSITY POLICIES 
 
@@ -138,4 +137,3 @@ In the case of an emergency, if at all possible, the class should shelter in pla
 
 #### Support for Students Outside the Classroom
 
--
