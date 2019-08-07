@@ -41,12 +41,12 @@ This is a tentative schedule and is subject to change. Please check here regular
 | **5**  | 09/25 | Data Acquistion:CSV/ASCII JSON/APIs                                  |  | Lab        |  NC    |  J |
 | **6** | 09/30 | Student Presentations                                                 |  |         |      |  B/J  |
 | **6** | 10/02 | Student Presentations                                                 |  |         |      |  B/J  |
-| **7** | 10/07 | Data Acquistion: Web Scraping                                         |  |         |      |  B  |
-| **7** | 10/09 | Data Loading DB/SQL                                                   |  | Lab        |      |  R  |
+| **7** | 10/07 | **Reading Days(Fall Break)**                                         |  |         |      |  B  |
+| **7** | 10/09 | Data Acquistion: Web Scraping                                                   |  | Lab        |      |  R  |
 | **8** | 10/14 | Data Loading DB/SQL                                                   |  |        |      |  R  |
 | **8** | 10/16 | Data Loading DB/SQL                                                  |  |  Lab       |      |  R  |
 | **9** | 10/21 | Data Loading DB/SQL                                                  |  |         |      |  R  |
-| **9** | 10/23 | Viz Shiny                                                            |  | Lab        |      |  B  |
+| **9** | 10/23 | Data Loading DB/SQL                                                             |  | Lab        |      |  B  |
 | **10** | 10/28 | Viz DASH                                                            |  |         |      |  B/J  |
 | **10** | 10/30 | Viz DASH                                                             |  | Lab        |      | B/J   |
 | **11** | 11/04 | Data Integration: Pandas/SQL                                         |  |         |      |  R  |
