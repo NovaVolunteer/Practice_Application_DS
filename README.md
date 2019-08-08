@@ -68,7 +68,7 @@ This is a tentative schedule and is subject to change. Please check here regular
 - SQLite Python tutorial
 
 **Course Slack Channel:**
-- setup slack channel)
+
 
 We will leverage Slack in this course to: 
 - Familiarize students with a platform used by data science teams in industry
