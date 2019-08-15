@@ -6,7 +6,7 @@
 **Term:** Fall 2019 \
 **Location:** Dell  \
 **Time:** MW 3:15 \
-**Office hours:** Thursday 1-4 \
+**Office hours:** Thursday 2-5 \
 **Teaching Assistant:** TBD 
 
 ###  Course Description:
