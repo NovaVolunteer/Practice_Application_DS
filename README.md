@@ -30,13 +30,13 @@ This is a tentative schedule and is subject to change. Please check here regular
 
 | Week # |Date   | Topics                                                      | Readings | Assignments | Due    | Prof
 | :----: |:----: |:-------|:---------|:------------| :----- | :-----
-| **1**  | 08/28 | Syllabus review/Capstone Q&A/Lifecycle      |  | Dream Job       |  NC    |B/J  |
-| **2**  | 09/02 | Landscape/Teamwork                                         |  |Charter       |   NC   |B    |
-| **2**  | 09/04 | Problem Solving/Charter/Guest from Library                                      |  |    |      |B   |
-| **3**  | 09/09 | Tech Presentations/Proposal                                      |  | Proposal/Presentations        |  |B   |
+| **1**  | 08/28 | Syllabus review/Capstone Q&A/Lifecycle      |  | Success Statement       |    |B/J  |
+| **2**  | 09/02 | Landscape/Teamwork                                         |  |  Team Coding     |     |B    |
+| **2**  | 09/04 | Problem Solving/Charter/Guest from Library                                      |  | Charter   |  NC    |B   |
+| **3**  | 09/09 | Tech Presentations/Proposal                                      |  | Proposal        | 9.18 |B   |
 | **3**  | 09/11 | Life Long Learning/Getting Help/Documentation                       |  | Digital Library        |      | B  |
-| **4**  | 09/16 | Client Management/Target Setting                                    |  | Success Statement      |      | J  |
-| **4**  | 09/18 | Project Mng/Client Management/Trello.SmartSheets                     |  | Project Plan        |      | B  |
+| **4**  | 09/16 | Client Management/Target Setting                                    |  |       |      | J  |
+| **4**  | 09/18 | Project Mng/Client Management/Trello.SmartSheets                     |  |Project Plan         |  NC    | B  |
 | **5**  | 09/23 | Data Acquistion:CSV/ASCII Delimiters, Headers                        |  |         |      | J  |
 | **5**  | 09/25 | Data Acquistion:CSV/ASCII JSON/APIs                                  |  | Lab        |  NC    |  J |
 | **6** | 09/30 | Student Presentations                                                 |  |         |      |  B/J  |
