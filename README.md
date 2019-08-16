@@ -80,11 +80,11 @@ We will leverage Slack in this course to:
 - Low cost platforms to get more learning as needed: Data Quest, Data Camp, Coursera
 
 **UVA Library Resources**
-- UVA Library Research Data Services[https://data.library.virginia.edu/training/] (R, Python, Scientific Workflow Tools, etc.)
-- UVA Health Science Library Research Data Workshops (R, image processing, etc.)
-- Advanced Research Computing Services (ARCS) often hosts workshops and sessions related to high-performance computing (aka Rivanna here at UVA.)  
-- Scholars’ Lab at UVA Library focuses on digital humanities, spatial technologies, and cultural heritage (e.g., GIS, Twitter, 3D   Printing, Photogrammetry)
-- StatLab is UVA Library’s statistical consulting service.
+- UVA Library Research Data Services https://data.library.virginia.edu/training/ (R, Python, Scientific Workflow Tools, etc.)
+- UVA Health Science Library Research Data Workshops https://cal.hsl.virginia.edu/calendar/data/?cid=5619&t=d&d=0000-00-00&cal=5619 (R, image processing, etc.)
+- Advanced Research Computing Services (ARCS) https://arcs.virginia.edu/training-outreach Hosts workshops and sessions related to high-performance computing (aka Rivanna)  
+- Scholars’ Lab at UVA Library focuses on digital humanities, spatial technologies, and cultural heritage (e.g., GIS, Twitter, 3D   Printing, Photogrammetry) https://scholarslab.lib.virginia.edu/events/
+- StatLab is UVA Library’s statistical consulting service. https://data.library.virginia.edu/statlab/consulting/
 
 **Social Media Follows: Adjusting Your Information Algo**
 - Medium: Programming, Data Science, Data Engineering
