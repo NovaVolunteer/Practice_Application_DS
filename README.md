@@ -31,7 +31,7 @@ This is a tentative schedule and is subject to change. Please check here regular
 | Week # |Date   | Topics                                                      | Readings | Assignments | Due    | Prof
 | :----: |:----: |:-------|:---------|:------------| :----- | :-----
 | **1**  | 08/28 | Syllabus review, Science of Data or Data Science?/Capstone Q&A      |  | Dream Job       |  NC    |B/J  |
-| **2**  | 09/02 | Landscape/Teamwork/Contract                                         |  |Contract       |   NC   |B    |
+| **2**  | 09/02 | Landscape/Teamwork/Project Charter                                         |  |Charter       |   NC   |B    |
 | **2**  | 09/04 | Tech Writing/Tech Presentation                                      |  | Proposal/Presentations   |      |B   |
 | **3**  | 09/09 | Tech Presentations                                                  |  |                           |  |B   |
 | **3**  | 09/11 | Life Long Learning/Getting Help/Documentation                       |  | Digital Library        |      | B  |
