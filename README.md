@@ -31,33 +31,33 @@ This is a tentative schedule and is subject to change. Please check here regular
 | Week # |Date   | Topics                                                      | Readings | Assignments | Due    | Prof
 | :----: |:----: |:-------|:---------|:------------| :----- | :-----
 | **1**  | 08/28 | Syllabus review/Capstone Q&A/Lifecycle      |  | Success Statement       |    |B/J  |
-| **2**  | 09/02 | Landscape/Teamwork                                         |  |  Team Coding     |     |B    |
-| **2**  | 09/04 | Problem Solving/Charter/Guest from Library                                      |  | Charter   |  NC    |B   |
-| **3**  | 09/09 | Tech Presentations/Proposal                                      |  | Proposal        | 9.18 |B   |
-| **3**  | 09/11 | Life Long Learning/Getting Help/Documentation                       |  | Digital Library        |      | B  |
-| **4**  | 09/16 | Client Management/Target Setting                                    |  |       |      | J  |
-| **4**  | 09/18 | Project Mng/Client Management/Trello.SmartSheets                     |  |Project Plan         |  NC    | B  |
-| **5**  | 09/23 | Data Acquistion:CSV/ASCII Delimiters, Headers                        |  |         |      | J  |
-| **5**  | 09/25 | Data Acquistion:CSV/ASCII JSON/APIs                                  |  | Lab        |  NC    |  J |
+| **2**  | 09/02 | Landscape/Teamwork                                         |  |  Team Coding     |     |B/J    |
+| **2**  | 09/04 | Problem Solving/Guest from Library                                      |  | Charter   |  NC    |B/J   |
+| **3**  | 09/09 | Tech Presentations/Proposal/Charter                                      |  | Proposal        | 9.18 |B/J   |
+| **3**  | 09/11 | Life Long Learning/Getting Help/Documentation                       |  | Digital Library        |      | B/J  |
+| **4**  | 09/16 | Client Management/Target Setting                                    |  |       |      | B/J  |
+| **4**  | 09/18 | Project Mng/Client Management/Trello.SmartSheets                     |  |Project Plan         |  NC    | B/J  |
+| **5**  | 09/23 | Data Acquistion:CSV/ASCII Delimiters, Headers                        |  |         |      | J/B  |
+| **5**  | 09/25 | Data Acquistion:CSV/ASCII JSON/APIs                                  |  | Lab        |  NC    |  J/B |
 | **6** | 09/30 | Student Presentations                                                 |  |         |      |  B/J  |
 | **6** | 10/02 | Student Presentations                                                 |  |         |      |  B/J  |
 | **7** | 10/07 | **Reading Days(Fall Break)**                                         |  |         |      |  B  |
-| **7** | 10/09 | Data Acquistion: Web Scraping                                                   |  | Lab        |      |  R  |
+| **7** | 10/09 | Data Acquistion: Web Scraping                                                   |  | Lab        |      |  B  |
 | **8** | 10/14 | Data Loading DB/SQL                                                   |  |        |      |  R  |
 | **8** | 10/16 | Data Loading DB/SQL                                                  |  |  Lab       |      |  R  |
 | **9** | 10/21 | Data Loading DB/SQL                                                  |  |         |      |  R  |
-| **9** | 10/23 | Data Loading DB/SQL                                                             |  | Lab        |      |  B  |
-| **10** | 10/28 | Viz DASH                                                            |  |         |      |  B/J  |
-| **10** | 10/30 | Viz DASH                                                             |  | Lab        |      | B/J   |
-| **11** | 11/04 | Data Integration: Pandas/SQL                                         |  |         |      |  R  |
-| **11** | 11/06 | Data Integration: Pandas/SQL                                         |  | Lab       |      |  R  |
-| **12** | 11/11 | Data Cleaning: Duplicate, Nulls etc.                                 |  |         |      |  B/J  |
-| **12** | 11/13 | Data Cleaning: Imputation                                           |  | Lab        |      |  B/J  |
-| **13** | 11/18 | Data Transformation: Grouping                                       |  |        |      |  B/J  |
-| **13** | 11/20 | Data Transformation                                                |  | Lab        |      | B/J   |
-| **14** | 11/25 | Data Pipeline                                                     |  |        |      | R   |
+| **9** | 10/23 | Data Loading DB/SQL                                                             |  | Lab        |      |  R  |
+| **10** | 10/28 | Data Cleaning: Pandas/SQL                                                           |  |         |      |  J/B  |
+| **10** | 10/30 | Data Cleaning: Pandas/SQL                                                            |  | Lab        |      | J/B   |
+| **11** | 11/04 | Data Cleaning: Duplicate, Nulls etc.                                         |  |         |      |  J/B  |
+| **11** | 11/06 | Data Cleaning:                                          |  | Lab       |      |  J/B  |
+| **12** | 11/11 | Data Cleaning:                                |  |         |      |  J/B  |
+| **12** | 11/13 | Data Cleaning:                                          |  | Lab        |      |  J/B  |
+| **13** | 11/18 | Data Viz/Dash                                       |  |        |      |  B/J  |
+| **13** | 11/20 | Data Viz/Dash                                               |  | Lab        |      | B/J   |
+| **14** | 11/25 | Data Transformation: PCA                                                     |  |        |      | B/J   |
 | **14** | 11/27 | **No Class Thanksgiving Break**                                   |  |         |      |    |
-| **15** | 12/02 | Data Pipeline                                                 |  | Lab        |      |  R  |
+| **15** | 12/02 | Data Transformation: tsne                                                 |  | Lab        |      |  J/B  |
 | **15** | 12/04 | Course Review and Presentation Prep                      |  |         |      |  B/J  |
 | **16** | 12/11 | **Data Pipeline Presentations**                                                      |  |         |      |  B/J  |
 
