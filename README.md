@@ -6,7 +6,7 @@
 **Term:** Fall 2019 \
 **Location:** Dell  \
 **Time:** MW 3:15 \
-**Office hours:** Thursday 2-5 \
+**Office hours:** TBD \
 **Teaching Assistant:** TBD 
 
 ###  Course Description:
@@ -18,12 +18,6 @@ The purpose of this course is to provide students with an understanding of data 
  - Understanding of field of data science at large and how to approach data driven approaches
  - The creation and utilization of data science pipelines
  
- ## Part II
- - Preparation and presentation of data presentation and research papers
-    - Data Visualization 
-    - Technical presentation development 
-    - Academic journal paper development (IEEE)
- - Case studies designed to better understand data science challenges
 
 ### Tentative Schedule Part I:
 This is a tentative schedule and is subject to change. Please check here regularly for updates.
@@ -59,7 +53,7 @@ This is a tentative schedule and is subject to change. Please check here regular
 | **14** | 11/27 | **No Class Thanksgiving Break**                                   |  |         |      |    |
 | **15** | 12/02 | Data Transformation: tsne                                                 |  | Lab        |      |  J/B  |
 | **15** | 12/04 | Course Review and Presentation Prep                      |  |         |      |  B/J  |
-| **16** | 12/11 | **Data Pipeline Presentations**                                                      |  |         |      |  B/J  |
+| **16** | 12/16 | **Data Pipeline Presentations**                                                      |  |         |      |  B/J  |
 
 
 ### Textbooks and Course Resources:
@@ -132,15 +126,15 @@ The course meets twice a week for roughly 1 hour and half. It's likely for every
 ###  UNIVERSITY POLICIES 
 
 #### Observance of Religious Holidays 
-In accordance with University policy, students should notify faculty during the first week of the semester of their intention to be absent from class on their day(s) of religious observance. 
-For details and policy, see: s
+In accordance with University policy if you need to be adsent due to a religious holiday just let us know and we will make arrangements for you. 
 
-#### Academic Integrity Code
+#### UVA Honor Code 
+https://honor.virginia.edu/
 
 
-#### Safety and Security
+#### Student Health
+https://www.studenthealth.virginia.edu/
 
-In the case of an emergency, if at all possible, the class should shelter in place. If the building that the class is in is affected, follow the evacuation procedures for the building. After evacuation, seek shelter at a predetermined rendezvous location.
-
-#### Support for Students Outside the Classroom
+#### Student Affairs 
+https://vpsa.virginia.edu/
 
