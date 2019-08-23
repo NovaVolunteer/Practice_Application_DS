@@ -6,8 +6,8 @@
 **Term:** Fall 2019 \
 **Location:** Gilmer 141  \
 **Time:** MW 3:30-4:45 \
-**Office hours:** Jonathan M 10-12 \ Brian W 10-12 Dell 1 103B
-**Teaching Assistant:**  
+**Office hours:** Jonathan M 10-12 \ Brian W 10-12 Dell 1 103B \
+**Teaching Assistant:**  Kumar Shashwat (sk9epp@virginia.edu) 
 
 ###  Course Description:
 
