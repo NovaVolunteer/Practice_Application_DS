@@ -4,8 +4,8 @@
 
 **Instructor Names:** Brian Wright (brianwright@virginia.edu) & Jonathan Kropko (jkropko@virginia.edu) \
 **Term:** Fall 2019 \
-**Location:** Dell  \
-**Time:** MW 3:15 \
+**Location:** Dell 1 105  \
+**Time:** MW 2:00-3:15 \
 **Office hours:** TBD \
 **Teaching Assistant:** TBD 
 
@@ -24,9 +24,9 @@ This is a tentative schedule and is subject to change. Please check here regular
 
 | Week # |Date   | Topics                                                      | Readings | Assignments | Due    | Prof
 | :----: |:----: |:-------|:---------|:------------| :----- | :-----
-| **1**  | 08/28 | Syllabus review/Capstone Q&A/Lifecycle      |  | Success Statement       |    |B/J  |
+| **1**  | 08/28 | Syllabus review/Capstone Q&A/Lifecycle      | A 1-3 chpts | Success Statement       |    |B/J  |
 | **2**  | 09/02 | Landscape/Teamwork                                         |  |  Team Coding     |     |B/J    |
-| **2**  | 09/04 | Problem Solving/Guest from Library                                      |  | Charter   |  NC    |B/J   |
+| **2**  | 09/04 | Problem Solving/Guest from Library/Contracts                                      |  | Charter   |  NC    |B/J   |
 | **3**  | 09/09 | Tech Presentations/Proposal/Charter                                      |  | Proposal        | 9.18 |B/J   |
 | **3**  | 09/11 | Life Long Learning/Getting Help/Documentation                       |  | Digital Library        |      | B/J  |
 | **4**  | 09/16 | Client Management/Target Setting                                    |  |       |      | B/J  |
@@ -57,9 +57,9 @@ This is a tentative schedule and is subject to change. Please check here regular
 
 
 ### Textbooks and Course Resources:
-- The Art of Data Science 
-- Python Data Science Handbook
-- SQLite Python tutorial
+- The Art of Data Science = A 
+- Python Data Science Handbook = B
+- SQLite Python tutorial = C
 
 **Course Slack Channel:**
 
@@ -92,8 +92,8 @@ We will leverage Slack in this course to:
 |Assignment| % |
 | :----: |:---- |
 |Quizzes |15% |
-|Homework/In-Class Excercises | 25% |
-|Proposal and Presentation | 25% |
+|Homework/In-Class Excercises | 15% |
+|Charter/Proposal (Presentation) | 35% |
 |Data Pipeline Presentation| 35% |
 
 
