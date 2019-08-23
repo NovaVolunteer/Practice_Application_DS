@@ -26,7 +26,7 @@ This is a tentative schedule and is subject to change. Please check here regular
 | :----: |:----: |:-------|:---------|:------------| :----- | :-----
 | **1**  | 08/28 | Syllabus review/Capstone Q&A/Lifecycle      | A 1-3 chpts | Success Statement       |    |B/J  |
 | **2**  | 09/02 | Landscape/Teamwork                                         |  |  Team Coding     |     |B/J    |
-| **2**  | 09/04 | Problem Solving/Guest from Library/Contracts                                      |  | Charter   |  NC    |B/J   |
+| **2**  | 09/04 | Problem Solving/Jenn Huck/Bill Schoelwer                                      |  | Charter   |  NC    |B/J   |
 | **3**  | 09/09 | Tech Presentations/Proposal/Charter                                      |  | Proposal        | 9.18 |B/J   |
 | **3**  | 09/11 | Life Long Learning/Getting Help/Documentation                       |  | Digital Library        |      | B/J  |
 | **4**  | 09/16 | Client Management/Target Setting                                    |  |       |      | B/J  |
