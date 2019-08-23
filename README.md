@@ -28,9 +28,9 @@ This is a tentative schedule and is subject to change. Please check here regular
 | **2**  | 09/02 | Landscape/Teamwork                                         |  |  Team Coding     |     |B/J    |
 | **2**  | 09/04 | Problem Solving/Jenn Huck/Bill Schoelwer                                      |  | Charter   |  NC    |B/J   |
 | **3**  | 09/09 | Tech Presentations/Proposal/Charter                                      |  | Proposal        | 9.18 |B/J   |
-| **3**  | 09/11 | Life Long Learning/Getting Help/Documentation                       |  | Digital Library        |      | B/J  |
+| **3**  | 09/11 | Project Mng/Client Mng/Trell                                        |  | Project Plan        |      | B/J  |
 | **4**  | 09/16 | Client Management/Target Setting                                    |  |       |      | B/J  |
-| **4**  | 09/18 | Project Mng/Client Management/Trello.SmartSheets                     |  |Project Plan         |  NC    | B/J  |
+| **4**  | 09/18 | Life Long Learning/Getting Help/Documentation                     |  |Digital Library         |  NC    | B/J  |
 | **5**  | 09/23 | Data Acquistion:CSV/ASCII Delimiters, Headers                        |  |         |      | J/B  |
 | **5**  | 09/25 | Data Acquistion:CSV/ASCII JSON/APIs                                  |  | Lab        |  NC    |  J/B |
 | **6** | 09/30 | Student Presentations                                                 |  |         |      |  B/J  |
