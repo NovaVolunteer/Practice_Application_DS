@@ -6,8 +6,8 @@
 **Term:** Fall 2019 \
 **Location:** Gilmer 141  \
 **Time:** MW 3:30-4:45 \
-**Office hours:** TBD \
-**Teaching Assistant:** TBD 
+**Office hours:** Jonathan M 10-12 \ Brian W 10-12 Dell 1 103B
+**Teaching Assistant:**  
 
 ###  Course Description:
 
