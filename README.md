@@ -24,19 +24,19 @@ This is a tentative schedule and is subject to change. Please check here regular
 
 | Week # |Date   | Topics                                                      | Readings | Assignments | Due    | Prof
 | :----: |:----: |:-------|:---------|:------------| :----- | :-----
-| **1**  | 08/28 | Syllabus review/Capstone Q&A/Lifecycle      | A 1-3 chpts | Success Statement       |    |B/J  |
-| **2**  | 09/02 | Landscape/Teamwork                                         |  |  Team Coding     |     |B/J    |
+| **1**  | 08/28 | Syllabus review/Capstone Q&A/Lifecycle      | A 1-3 chpts |        |    |B/J  |
+| **2**  | 09/02 | Landscape/Teamwork                                         |  |  Success Statement/ Team Coding     |     |B/J    |
 | **2**  | 09/04 | Problem Solving/Jenn Huck/Bill Schoelwer                                      |  | Charter   |  NC    |B/J   |
 | **3**  | 09/09 | Tech Presentations/Proposal/Charter                                      |  | Proposal        | 9.18 |B/J   |
-| **3**  | 09/11 | Project Mng/Client Mng/Trell                                        |  | Project Plan        |      | B/J  |
+| **3**  | 09/11 | Project Mng/Client Mng/Trello                                        |  | Project Plan        |      | B/J  |
 | **4**  | 09/16 | Client Management/Target Setting                                    |  |       |      | B/J  |
 | **4**  | 09/18 | Life Long Learning/Getting Help/Documentation                     |  |Digital Library         |  NC    | B/J  |
 | **5**  | 09/23 | Data Acquistion:CSV/ASCII Delimiters, Headers                        |  |         |      | J/B  |
 | **5**  | 09/25 | Data Acquistion:CSV/ASCII JSON/APIs                                  |  | Lab        |  NC    |  J/B |
 | **6** | 09/30 | Student Presentations                                                 |  |         |      |  B/J  |
 | **6** | 10/02 | Student Presentations                                                 |  |         |      |  B/J  |
-| **7** | 10/07 | **Reading Days(Fall Break)**                                         |  |         |      |  B  |
-| **7** | 10/09 | Data Acquistion: Web Scraping                                                   |  | Lab        |      |  B  |
+| **7** | 10/07 | **Reading Days(Fall Break)**                                         |  |         |      |    |
+| **7** | 10/09 | Data Acquistion: Web Scraping                                                   |  | Lab        |      |  J/B  |
 | **8** | 10/14 | Data Loading DB/SQL                                                   |  |        |      |  R  |
 | **8** | 10/16 | Data Loading DB/SQL                                                  |  |  Lab       |      |  R  |
 | **9** | 10/21 | Data Loading DB/SQL                                                  |  |         |      |  R  |
