@@ -1,3 +1,5 @@
+![UVA DSI Logo](https://datascience.virginia.edu/og.jpg)
+
 # 6001 - Practice and Application of Data Science
 
 ### Course & Contact Information:
