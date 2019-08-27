@@ -62,6 +62,7 @@ This is a tentative schedule and is subject to change. Please check here regular
 - SQLite Python Tutorial = SPT
 
 **Course Slack Channel:**
+Invite link: https://join.slack.com/t/uvadsi6001/shared_invite/enQtNzMzNTg2MzIzMDczLThhYjZkMjMwNzg2ZjJjZDFmODEwMzI2Y2QyODFmMzhlYTVjMGYwMDFiZGUxODQ1NTgzZDg0ZmY0YzQ0YzJiNmM
 
 
 We will leverage Slack in this course to: 
