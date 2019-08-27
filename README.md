@@ -57,9 +57,9 @@ This is a tentative schedule and is subject to change. Please check here regular
 
 
 ### Textbooks and Course Resources:
-- The Art of Data Science = AoDS 
-- Python Data Science Handbook = PDSH
-- SQLite Python Tutorial = SPT
+- The Art of Data Science = [AoDS](http://bedford-computing.co.uk/learning/wp-content/uploads/2016/09/artofdatascience.pdf) 
+- Python Data Science Handbook = [PDSH](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
+- SQLite Python Tutorial = [SPT](http://zetcode.com/ebooks/sqlitepython/) - cost involved 
 
 **Course Slack Channel:**
 Invite link: https://join.slack.com/t/uvadsi6001/shared_invite/enQtNzMzNTg2MzIzMDczLThhYjZkMjMwNzg2ZjJjZDFmODEwMzI2Y2QyODFmMzhlYTVjMGYwMDFiZGUxODQ1NTgzZDg0ZmY0YzQ0YzJiNmM
