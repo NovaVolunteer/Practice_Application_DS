@@ -11,7 +11,7 @@
 
 ###  Course Description:
 
-The purpose of this course is to provide students with an understanding of data science in practice with a focus on empirical decision making using a contemporary data science lifecycle approach. In doing so, the course is separated into three high level sections covering two semesters. The first semester focuses on understanding the field of data science and skills needed to have a successful career as a data scientist. This is followed by content centered on creating and using pipelines for data aquisition, wraggling and visualization.  The second semester is designed to preparing students to communicate data driven outcomes through presentations, research papers and working through  case studies to better understand typical challenges faced in the field.  
+The purpose of this course is to provide students with an understanding of data science in practice with a focus on empirical decision making using a contemporary data science lifecycle approach. In doing so, the course is separated into three high-level sections covering two semesters. The first semester focuses on understanding the field of data science and skills needed to have a successful career as a data scientist. This is followed by content centered on creating and using pipelines for data acquisition, wrangling, and visualization. The second semester is designed to preparing students to communicate data-driven outcomes through presentations, research papers and working through case studies to better understand typical challenges faced in the field.
 
 ### Learning Outcomes:
 ## Part I
