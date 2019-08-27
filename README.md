@@ -22,7 +22,7 @@ The purpose of this course is to provide students with an understanding of data 
 ### Tentative Schedule Part I:
 This is a tentative schedule and is subject to change. Please check here regularly for updates.
 
-| Week # |Date   | Topics                                                      | Readings | Assignments | Due    | Prof
+| Week # |Date   | Topics                                                      | Readings/References | Assignments | Due    | Prof
 | :----: |:----: |:-------|:---------|:------------| :----- | :-----
 | **1**  | 08/28 | Syllabus review/Capstone Q&A/Lifecycle      | AoDS 1-3 chpts |        |    |B/J  |
 | **2**  | 09/02 | Landscape/Teamwork/Charter                 |  |  Charter     |  9/9  |B/J |
