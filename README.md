@@ -28,8 +28,8 @@ This is a tentative schedule and is subject to change. Please check here regular
 | **2**  | 09/02 | Landscape/Teamwork/Charter                 |  |  Charter     |  9/9  |B/J |
 | **2**  | 09/04 | Problem Solving/Jenn Huck/Bill Schoelwer          |  | Team Coding/Dream Job   | TM:NC DM:9_09 |B/J   |
 | **3**  | 09/09 | Tech Presentations/Proposal                                    |  | Proposal        | 9.18 |B/J   |
-| **3**  | 09/11 | Project Mng/Client Mng/Trello | https://trello.com/b/PeCoapfE/kanban-for-data-science-vr-data-analysis | Project Plan |  NC    | B/J  |
-| **4**  | 09/16 | Client Management/Target Setting/GitHub   | https://swcarpentry.github.io/git-novice/ |Software Carp |  NC   | B/J  |
+| **3**  | 09/11 | Project Mng/Client Mng/Trello | shorturl.at/uDP13 | Project Plan |  NC    | B/J  |
+| **4**  | 09/16 | Client Management/Target Setting/GitHub   | shorturl.at/vGJTY |Software Carp |  NC   | B/J  |
 | **4**  | 09/18 | Life Long Learning/Getting Help/Documentation                     |  |Digital Library         |  NC    | B/J  |
 | **5**  | 09/23 | Data Acquistion:CSV/ASCII Delimiters, Headers                        |  |         |      | J/B  |
 | **5**  | 09/25 | Data Acquistion:CSV/ASCII JSON/APIs                                  |  | Lab        |  NC    |  J/B |
