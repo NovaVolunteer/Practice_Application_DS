@@ -17,10 +17,13 @@ The purpose of this course is to provide students with an understanding of data 
 
 ### Learning Outcomes:
 ## Part I
- - Understanding of field of data science at large and how to approach data driven approaches
+ - Understanding of data science lifecycle
+ - How to plan and execute data driven projects as a team
+ - How to gather and clean data using Python
  - The creation and utilization of data science pipelines
- 
+ - Creation of simple web-based interactive data visualizations 
 
+ 
 ### Tentative Schedule Part I:
 This is a tentative schedule and is subject to change. Please check here regularly for updates.
 
