@@ -25,7 +25,7 @@ This is a tentative schedule and is subject to change. Please check here regular
 | Week # |Date   | Topics                                                      | Readings | Assignments | Due    | Prof
 | :----: |:----: |:-------|:---------|:------------| :----- | :-----
 | **1**  | 08/28 | Syllabus review/Capstone Q&A/Lifecycle      | AoDS 1-3 chpts |        |    |B/J  |
-| **2**  | 09/02 | Landscape/Teamwork/Charter                 |  |  Charter     |  Charter: 9/9  |B/J |
+| **2**  | 09/02 | Landscape/Teamwork/Charter                 |  |  Charter     |  9/9  |B/J |
 | **2**  | 09/04 | Problem Solving/Jenn Huck/Bill Schoelwer                                      |  | Team Coding   |  NC    |B/J   |
 | **3**  | 09/09 | Tech Presentations/Proposal                                    |  | Proposal        | 9.18 |B/J   |
 | **3**  | 09/11 | Project Mng/Client Mng/Trello                                        |  | Project Plan        |  NC    | B/J  |
