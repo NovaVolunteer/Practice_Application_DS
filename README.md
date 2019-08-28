@@ -9,7 +9,7 @@
 **Location:** Gilmer 141  \
 **Time:** MW 3:30-4:45 \
 **Office hours:** Jonathan M 10-12 \ Brian W 10-12 Dell 1 103B \
-**Teaching Assistant:**  Shashwat Kumar (sk9epp@virginia.edu) 
+**Teaching Assistant:**  Shashwat Kumar (sk9epp@virginia.edu) \
 **Collab Site:** This repo and the collab site will both have all the course content. Collab will also be used to submit assignments. 
 
 ###  Course Description:
