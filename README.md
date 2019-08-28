@@ -98,7 +98,7 @@ We will leverage Slack in this course to:
 |Assignment| % |
 | :----: |:---- |
 |Quizzes |15% |
-|Homework/In-Class Excercises | 15% |
+|Labs/In-Class Excercises | 15% |
 |Charter/Proposal (Presentation) | 35% |
 |Data Pipeline Presentation| 35% |
 
