@@ -36,7 +36,7 @@ This is a tentative schedule and is subject to change. Please check here regular
 | **3**  | 09/09 | Landscape/Tech Presentations/Proposal                                    |  | Proposal        | 9.18 |B/J   |
 | **3**  | 09/11 | Project Mng/Client Mng/Trello |[Kaban Trello Example](https://trello.com/b/PeCoapfE/kanban-for-data-science-vr-data-analysis) | Project Plan |  9.16    | B/J  |
 | **4**  | 09/16 | Client Management/Target Setting/GitHub   | [Software Carp](https://swcarpentry.github.io/git-novice/)  |Software Carp |  9.18   | B/J  |
-| **4**  | 09/18 | Life Long Learning/Getting Help/Documentation                     |  |Digital Library         |  9.23    | B/J  |
+| **4**  | 09/18 | Life Long Learning/Getting Help/Documentation                     |  |Digital Library         |  9.23    | J/B  |
 | **5**  | 09/23 | Data Acquistion:CSV/ASCII Delimiters, Headers                        |  |         |      | J/B  |
 | **5**  | 09/25 | Data Acquistion:CSV/ASCII JSON/APIs                                  |  | Lab        |  NC    |  J/B |
 | **6** | 09/30 | Student Presentations                                                 |  |         |      |  B/J  |
