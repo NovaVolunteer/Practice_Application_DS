@@ -34,7 +34,7 @@ This is a tentative schedule and is subject to change. Please check here regular
 | **2**  | 09/02 | Teamwork/Charter                 |[Analyzing the Analyzers Survey](http://survey.datacommunitydc.org/reset)  |  Charter/Dream Job     | C: 9.9 DJ: 9.4  |B/J |
 | **2**  | 09/04 | Problem Solving/Jenn Huck/Bill Schoelwer          |  | Team Coding   | TC: 9.16  |B/J   |
 | **3**  | 09/09 | Landscape/Tech Presentations/Proposal                                    |  | Proposal        | 9.18 |B/J   |
-| **3**  | 09/11 | Project Mng/Client Mng/Trello |[Kaban Trello Example](https://trello.com/b/PeCoapfE/kanban-for-data-science-vr-data-analysis) | Project Plan |  9.16    | B/J  |
+| **3**  | 09/11 | Project Mng/Trello |[Kaban Trello Example](https://trello.com/b/PeCoapfE/kanban-for-data-science-vr-data-analysis) | Project Plan |  9.16    | B/J  |
 | **4**  | 09/16 | Client Management/Target Setting/GitHub   | [Software Carp](https://swcarpentry.github.io/git-novice/)  |Software Carp |  9.18   | B/J  |
 | **4**  | 09/18 | Life Long Learning/Getting Help/Documentation                     |  |Digital Library         |  9.23    | J/B  |
 | **5**  | 09/23 | Data Acquistion:CSV/ASCII Delimiters, Headers                        |  |         |      | J/B  |
