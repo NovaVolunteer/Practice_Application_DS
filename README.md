@@ -32,7 +32,7 @@ This is a tentative schedule and is subject to change. Please check here regular
 | :----: |:----: |:-------|:---------|:------------| :----- | :-----
 | **1**  | 08/28 | Syllabus review/Capstone Q&A/Lifecycle      | AoDS 1-3 chpts |        |    |B/J  |
 | **2**  | 09/02 | Teamwork/Charter                 |[Analyzing the Analyzers Survey](http://survey.datacommunitydc.org/reset)  |  Charter/Dream Job     | C: 9.9 DJ: 9.4  |B/J |
-| **2**  | 09/04 | Problem Solving/Jenn Huck/Bill Schoelwer          |  | Team Coding   | TC: 9.16  |B/J   |
+| **2**  | 09/04 | Problem Solving/Jenn Huck/Bill Schoelwer          |  | Team Coding   | TC: 9.11  |B/J   |
 | **3**  | 09/09 | Landscape/Tech Presentations/Proposal                                    |  | Proposal        | 9.18 |B/J   |
 | **3**  | 09/11 | Project Mng/Trello |[Kaban Trello Example](https://trello.com/b/PeCoapfE/kanban-for-data-science-vr-data-analysis) | Project Plan |  9.16    | B/J  |
 | **4**  | 09/16 | Client Management/Target Setting/GitHub   | [Software Carp](https://swcarpentry.github.io/git-novice/)  |Software Carp |  9.18   | B/J  |
