@@ -44,20 +44,20 @@ This is a tentative schedule and is subject to change. Please check here regular
 | **7** | 10/07 | **Reading Days(Fall Break)**                                         |  |         |      |    |
 | **7** | 10/09 | Data Acquistion: Web Scraping                                                   |  | Lab        |      |  J/B  |
 | **8** | 10/14 | Data Loading DB/SQL                                                   |  |        |      |  R  |
-| **8** | 10/16 | Data Loading DB/SQL                                                  |  |  Lab       |      |  R  |
+| **8** | 10/16 | Data Loading DB/SQL                                                  |  |         |      |  R  |
 | **9** | 10/21 | Data Loading DB/SQL                                                  |  |         |      |  R  |
-| **9** | 10/23 | Data Loading DB/SQL                                                             |  | Lab        |      |  R  |
+| **9** | 10/23 | Data Loading DB/SQL                                                             |  |         |      |  R  |
 | **10** | 10/28 | Data Cleaning: Pandas/SQL                                                           |  |         |      |  J/B  |
-| **10** | 10/30 | Data Cleaning: Pandas/SQL                                              |  | Lab        |      | J/B   |
+| **10** | 10/30 | Data Cleaning: Pandas/SQL                                              |  |         |      | J/B   |
 | **11** | 11/04 | Data Cleaning: Duplicate, Nulls etc.                                         |  |         |      |  J/B  |
-| **11** | 11/06 | Data Cleaning:                                          |  | Lab       |      |  J/B  |
+| **11** | 11/06 | Data Cleaning:                                          |  |        |      |  J/B  |
 | **12** | 11/11 | Data Cleaning:                                |  |         |      |  J/B  |
-| **12** | 11/13 | Data Cleaning:                                          |  | Lab        |      |  J/B  |
+| **12** | 11/13 | Data Cleaning:                                          |  |         |      |  J/B  |
 | **13** | 11/18 | Data Viz/Dash                                       |  |        |      |  B/J  |
-| **13** | 11/20 | Data Viz/Dash                                               |  | Lab        |      | B/J   |
+| **13** | 11/20 | Data Viz/Dash                                               |  |         |      | B/J   |
 | **14** | 11/25 | Data Transformation: PCA                                                     |  |        |      | B/J   |
 | **14** | 11/27 | **No Class Thanksgiving Break**                                   |  |         |      |    |
-| **15** | 12/02 | Data Transformation: tsne                                                 |  | Lab        |      |  J/B  |
+| **15** | 12/02 | Data Transformation: tsne                                                 |  |         |      |  J/B  |
 | **15** | 12/04 | Course Review and Presentation Prep                      |  |         |      |  B/J  |
 | **16** | 12/16 | **Data Pipeline Presentations**                                                      |  |         |      |  B/J  |
 
