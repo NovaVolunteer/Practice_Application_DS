@@ -47,10 +47,10 @@ This is a tentative schedule and is subject to change. Please check here regular
 | **8** | 10/16 | Data Loading DB/SQL                                                  |  |         |      |  R  |
 | **9** | 10/21 | Data Loading DB/SQL                                                  |  |         |      |  R  |
 | **9** | 10/23 | Data Loading DB/SQL                                                             |  |         |      |  R  |
-| **10** | 10/28 | Data Cleaning: Pandas/SQL                                                           |  |         |      |  J/B  |
-| **10** | 10/30 | Data Cleaning: Pandas/SQL                                              |  |         |      | J/B   |
-| **11** | 11/04 | Data Cleaning: Duplicate, Nulls etc.                                         |  |         |      |  J/B  |
-| **11** | 11/06 | Data Cleaning:                                          |  |        |      |  J/B  |
+| **10** | 10/28 | API/Beautiful Soup                                                            |  |         |      |  J/B  |
+| **10** | 10/30 | Data Cleaning: Pandas                                              |  |         |      | J/B   |
+| **11** | 11/04 | Data Cleaning: Pandas                                        |  |         |      |  J/B  |
+| **11** | 11/06 | Data Cleaning: Pandas                                         |  |        |      |  J/B  |
 | **12** | 11/11 | Data Cleaning:                                |  |         |      |  J/B  |
 | **12** | 11/13 | Data Cleaning:                                          |  |         |      |  J/B  |
 | **13** | 11/18 | Data Viz/Dash                                       |  |        |      |  B/J  |
