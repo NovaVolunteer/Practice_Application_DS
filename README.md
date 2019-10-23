@@ -53,11 +53,11 @@ This is a tentative schedule and is subject to change. Please check here regular
 | **11** | 11/06 | Data Cleaning: Pandas                                         |  |        |      |  J/B  |
 | **12** | 11/11 | Data Cleaning:                                |  |         |      |  J/B  |
 | **12** | 11/13 | Data Cleaning:                                          |  |         |      |  J/B  |
-| **13** | 11/18 | Data Viz/Dash                                       |  |        |      |  B/J  |
-| **13** | 11/20 | Data Viz/Dash                                               |  |         |      | B/J   |
-| **14** | 11/25 | Data Transformation: PCA                                                     |  |        |      | B/J   |
+| **13** | 11/18 | Data Viz                                      |  |        |      |  B/J  |
+| **13** | 11/20 | Data Viz                                              |  |         |      | B/J   |
+| **14** | 11/25 | Data Viz/Dash                                                    |  |        |      | B/J   |
 | **14** | 11/27 | **No Class Thanksgiving Break**                                   |  |         |      |    |
-| **15** | 12/02 | Data Transformation: tsne                                                 |  |         |      |  J/B  |
+| **15** | 12/02 | Data Viz/Dash                                                |  |         |      |  J/B  |
 | **15** | 12/04 | Course Review and Presentation Prep                      |  |         |      |  B/J  |
 | **16** | 12/16 | **Data Pipeline Presentations**                                                      |  |         |      |  B/J  |
 
