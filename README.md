@@ -58,7 +58,7 @@ This is a tentative schedule and is subject to change. Please check here regular
 | **14** | 11/25 | Data Viz/Dash                                                    |  |        |      | B/J   |
 | **14** | 11/27 | **No Class Thanksgiving Break**                                   |  |         |      |    |
 | **15** | 12/02 | Data Viz/Dash                                                |  |         |      |  J/B  |
-| **15** | 12/04 | Course Review and Presentation Prep                      |  |         |      |  B/J  |
+| **15** | 12/04 | Rshiny                      |  |         |      |  B/J  |
 | **16** | 12/16 | **Data Pipeline Presentations**                                                      |  |         |      |  B/J  |
 
 
