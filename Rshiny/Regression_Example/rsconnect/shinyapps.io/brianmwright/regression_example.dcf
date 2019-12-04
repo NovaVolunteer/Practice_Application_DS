@@ -1,0 +1,10 @@
+name: regression_example
+title:
+username:
+account: brianmwright
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1557011
+bundleId: 2637496
+url: https://brianmwright.shinyapps.io/regression_example/
+when: 1575408019.55992

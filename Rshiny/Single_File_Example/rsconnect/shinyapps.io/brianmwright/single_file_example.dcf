@@ -1,0 +1,10 @@
+name: single_file_example
+title:
+username:
+account: brianmwright
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 642490
+bundleId: 1814019
+url: https://brianmwright.shinyapps.io/single_file_example/
+when: 1547498652.69595

@@ -1,0 +1,53 @@
+---
+title: "Load Speed"
+author: "Brian Wright"
+date: "January 18, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+
+library(data.table)
+library(readr)
+library(feather)
+```
+
+Here we are just going to test of few methods for loading a 1GB Census File 
+```{r}
+
+census_read_cv <- read.csv("cbd_25.csv")#ok this takes forever :( so we can try some other  options including data conversions and then load the new data objects back into our environment
+
+census <- fread("cbd_25.csv")
+#check the loading times User- Time to execute the process in the R session, System is the CPU used by the operating system, and elapsed is actual time for the process, which is what we will care about the most.  
+system.time(fread("cbd_25.csv"))
+
+#For feather we need to preload the data and convert to feather format 
+path_feather <- ("cbd_25.feather")
+write_feather(census,path_feather)
+census_feather <- read_feather(path_feather)
+
+#Again check the times
+system.time(read_feather(path_feather))
+
+#RDS also requires conversion 
+path_rds <- ("cbd_25.rds")
+saveRDS(census, path_rds)
+census_RDS <- readRDS(path_rds)
+
+#Check the times
+system.time(readRDS(path_rds))
+#So looks like feather is going to be the quickest option
+
+
+path_Rdata <- ("cdb_25.RData")
+save(census,file = path_Rdata)
+census_RData <- load(path_Rdata)
+#check the time
+system.time(load(path_Rdata))# Looks like Feather is still our best option. 
+
+```
+
